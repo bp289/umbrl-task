@@ -25,7 +25,7 @@ const tierList: Tier[] = [
       { value: "100+ HTML ui elements", included: true },
       { value: "01 Domain support", included: true },
       { value: "6 months premium", included: false },
-      { value: "lifetime Update4", included: false },
+      { value: "lifetime Update", included: false },
     ],
   },
 ];
